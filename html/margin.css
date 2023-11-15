@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+p {
+
+    border: 10px solid aquamarine;
+    /* padding-right: 100px; */
+    /* margin-left: 25px;
+    margin-right: 45px; */
+    /* padding-top: 200px;
+    padding-bottom: 90px; */
+    /* margin-top: 80px; */
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    padding: 60px 45px;
+    
+}
