@@ -1,0 +1,44 @@
+/* styles with borders
+properties */
+p {
+    /* color: blue;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: rgb(23, 168, 120); */
+    border: dotted 10px rgb(23, 168, 120);
+    color: aliceblue;
+}
+
+h2 {
+    border-top: dotted red;
+    border-left: dashed green;
+    border-right: double rgb(5, 5, 5) 10px;
+    border-bottom: groove blue;
+    color: blueviolet;
+
+
+}
+
+h1 {
+    border-style: dotted double dashed groove;
+    border-color: red green blue black;
+    border-width: 10px;
+    color: aliceblue;
+}
+
+h3 {
+    border-style: dotted double dashed groove  ;
+    border-color: red green blue black;
+    border-radius: 20px;
+}
+
+/* body {
+    background-image: url("./pexels-joshua-woroniecki-2607956.jpg");
+} */
+body {
+    background-size: 1366px 625px;
+    background-image: url("./pexels-joshua-woroniecki-2607956.jpg");
+    background-repeat: no-repeat;
+
+
+}

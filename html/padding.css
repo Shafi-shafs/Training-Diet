@@ -1,0 +1,13 @@
+*{
+
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+h1{
+    border: 40px solid aqua;
+    /* padding-left: 50px; */
+    /* padding-top: 25px; */
+    padding: 50px 90px;
+}
