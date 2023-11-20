@@ -1,0 +1,82 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+
+body {
+
+    background: url(../../img/fog-dark-clouds-mountains.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+
+.logo {
+
+    width: 300px;
+    height: 120px;
+    margin: 20px;
+
+}
+
+.logo a img {
+
+    width: 160px;
+    height: 80px;
+    border-radius: 7px;
+    filter: drop-shadow(0 0 0.20rem rgba(255, 255, 255, 0.56));
+}
+
+.pages {
+
+    margin-left: 460px;
+
+}
+
+.pages a {
+
+    padding: 15px;
+    position: relative;
+    top: -110px;
+    font-size: x-large;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(13, 13, 231);
+    filter: drop-shadow();
+}
+
+.pages a:hover {
+
+    background-color: bisque;
+}
+
+.main h1 {
+
+    font-size: 60px;
+
+}
+
+.main h1 span {
+
+    margin-left: -170px;
+}
+
+.main h1 span {
+
+    margin-left: -170px;
+}
+
+.button {
+
+    background-color: blueviolet;
+    border-radius: 60px;
+    margin-left: 60px;
+    width: 1000px !important;
+}
